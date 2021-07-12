@@ -1,0 +1,20 @@
+{
+  "name": "ModMail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BotsDocs/mail.git",
+  "author": "Mario <mario.vitoon@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.22"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@vue/component-compiler-utils": "^3.2.2",
+    "@vuepress/plugin-search": "^1.8.2",
+    "@vuepress/shared-utils": "^1.8.2"
+  }
+}
