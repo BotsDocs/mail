@@ -23,7 +23,7 @@
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><ul>
 <li>Create a file named <code>.env</code> and copy the content from the <code>.env.template</code> file and fill the variables.
 <ul>
-<li>BOT_TOKEN: your Discord Bot Token. You can fin it in the Bot Tab of the <a href="https://discord.com/developers/applications" target="_blank" rel="noopener noreferrer">Discord's Developer Portal<OutboundLink/></a>.</li>
+<li>BOT_TOKEN: your Discord Bot Token. You can find it in the Bot Tab of the <a href="https://discord.com/developers/applications" target="_blank" rel="noopener noreferrer">Discord's Developer Portal<OutboundLink/></a>.</li>
 <li>MAIN_GUILD_ID: the ID of the server where the treads will be opened. If you do not know how to get an ID, check <a href="https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-" target="_blank" rel="noopener noreferrer">this guide<OutboundLink/></a>.</li>
 <li>MONGO_URI: the mongo URL you copied with the password replaced.</li>
 <li>LOGS_URL: the URL where your logs will be hosted (make sure it ends in <code>/</code>). If you are not using any logs, just delete the line.</li>

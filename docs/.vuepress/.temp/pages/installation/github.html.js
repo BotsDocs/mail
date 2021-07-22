@@ -19,8 +19,14 @@ export const data = {
   ],
   "filePathRelative": "installation/github.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1626103650000,
+    "contributors": [
+      {
+        "name": "Mario",
+        "email": "mario.vitoon@gmail.com",
+        "commits": 1
+      }
+    ]
   }
 }
 

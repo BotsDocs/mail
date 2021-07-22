@@ -1,6 +1,7 @@
 ---
 title: Hosting on a VPS
 prev: /installation/logs.md
+next: /installation/heroku.md
 ---
 
 # Hosting your Bot using a VPS
@@ -26,7 +27,7 @@ npm install
 npm install -g pm2
 ```
 - Create a file named `.env` and copy the content from the `.env.template` file and fill the variables.
-    - BOT_TOKEN: your Discord Bot Token. You can fin it in the Bot Tab of the [Discord's Developer Portal](https://discord.com/developers/applications).
+    - BOT_TOKEN: your Discord Bot Token. You can find it in the Bot Tab of the [Discord's Developer Portal](https://discord.com/developers/applications).
     - MAIN_GUILD_ID: the ID of the server where the treads will be opened. If you do not know how to get an ID, check [this guide](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-).
     - MONGO_URI: the mongo URL you copied with the password replaced.
     - LOGS_URL: the URL where your logs will be hosted (make sure it ends in `/`). If you are not using any logs, just delete the line.

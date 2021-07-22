@@ -5,14 +5,21 @@ export const data = {
   "lang": "en-US",
   "frontmatter": {
     "title": "Hosting on a VPS",
-    "prev": "/installation/logs.md"
+    "prev": "/installation/logs.md",
+    "next": "/installation/heroku.md"
   },
   "excerpt": "",
   "headers": [],
   "filePathRelative": "installation/vps.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1626103650000,
+    "contributors": [
+      {
+        "name": "Mario",
+        "email": "mario.vitoon@gmail.com",
+        "commits": 1
+      }
+    ]
   }
 }
 

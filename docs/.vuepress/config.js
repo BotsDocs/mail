@@ -29,6 +29,8 @@ module.exports = {
           ariaLabel: 'Languages',
           // text for the edit-on-github link
           editLinkText: 'Edit this page on GitHub',
+          contributors: false,
+          lastUpdated: false,
           // config for Service Worker
           serviceWorker: {
             updatePopup: {
@@ -100,6 +102,14 @@ module.exports = {
           // text for the edit-on-github link
           editLinkText: 'Edita esta página en GitHub',
           // config for Service Worker
+          contributors: false,
+          lastUpdated: false,
+          tip: 'CONSEJO',
+          warning: 'AVISO',
+          danger: 'PELIGRO',
+          notFound: ['No Encontrado'],
+          backToHome: 'Vuelta al Inicio',
+          openInNewWindow: 'abrir en una ventana nueva',
           serviceWorker: {
             updatePopup: {
               message: "Nuevo contenido disponible.",

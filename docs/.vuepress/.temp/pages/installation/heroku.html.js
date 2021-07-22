@@ -1,15 +1,24 @@
 export const data = {
   "key": "v-8bb397ce",
   "path": "/installation/heroku.html",
-  "title": "",
+  "title": "Hosting on Heroku",
   "lang": "en-US",
-  "frontmatter": {},
+  "frontmatter": {
+    "title": "Hosting on Heroku",
+    "prev": "/installation/vps.md"
+  },
   "excerpt": "",
   "headers": [],
   "filePathRelative": "installation/heroku.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1626103650000,
+    "contributors": [
+      {
+        "name": "Mario",
+        "email": "mario.vitoon@gmail.com",
+        "commits": 1
+      }
+    ]
   }
 }
 

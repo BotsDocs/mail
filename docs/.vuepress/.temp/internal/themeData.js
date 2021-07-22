@@ -7,6 +7,8 @@ export const themeData = {
       "label": "English",
       "ariaLabel": "Languages",
       "editLinkText": "Edit this page on GitHub",
+      "contributors": false,
+      "lastUpdated": false,
       "serviceWorker": {
         "updatePopup": {
           "message": "New content is available.",
@@ -71,6 +73,16 @@ export const themeData = {
       "label": "Español",
       "ariaLabel": "Idiomas",
       "editLinkText": "Edita esta página en GitHub",
+      "contributors": false,
+      "lastUpdated": false,
+      "tip": "CONSEJO",
+      "warning": "AVISO",
+      "danger": "PELIGRO",
+      "notFound": [
+        "No Encontrado"
+      ],
+      "backToHome": "Vuelta al Inicio",
+      "openInNewWindow": "abrir en una ventana nueva",
       "serviceWorker": {
         "updatePopup": {
           "message": "Nuevo contenido disponible.",
