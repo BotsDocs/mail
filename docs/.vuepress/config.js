@@ -1,6 +1,6 @@
 module.exports = {
   head: [
-      ['link', { rel: 'icon', href: '/images/ModMail.svg'}]
+      ['link', { rel: 'icon', href: '/images/ModMail.png'}]
   ],
   locales: {
     '/': {
@@ -17,7 +17,7 @@ module.exports = {
     }
   },
   themeConfig: {
-      logo: '/images/ModMail.svg',
+      logo: '/images/ModMail.png',
       locales: {
         '/': {
           // text for the language dropdown
