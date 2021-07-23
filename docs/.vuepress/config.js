@@ -1,5 +1,4 @@
 module.exports = {
-  base: '/mail/',
   head: [
       ['link', { rel: 'icon', href: '/images/ModMail.svg'}]
   ],
