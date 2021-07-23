@@ -31,3 +31,6 @@ And last but not least, some commands require you to indicate a channel or user,
 
 ## Permissions
 
+All commands have a predefined level, which can be `ADMIN`, `SUPPORT` or `REGULAR`. If a command requires SUPPORT permissions, then only those roles and users with SUPPORT or ADMIN will be able to use the command.
+
+You will see how to configure the permissions on the [configuration commands](/commands/configuration.md) section.

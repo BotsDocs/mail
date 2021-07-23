@@ -60,6 +60,10 @@ If you do not have a credit card linked to your Heroku account, your bot will no
 
 <br/>
 
+Once done, go to any channel on your server and run the command: `+setup`.
+
+<br/>
+
 :::tip You are Done!
 Your bot is now hosted on Heroku and it should appear online in your server.
 <br/>

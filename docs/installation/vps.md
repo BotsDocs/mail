@@ -46,6 +46,10 @@ pm2 start prod/index.js --name modmail
 
 <br/>
 
+Once done, go to any channel on your server and run the command: `+setup`.
+
+<br/>
+
 :::tip Success
 Your bot should already be online.
 :::
