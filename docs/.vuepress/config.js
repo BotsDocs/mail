@@ -2,7 +2,7 @@ module.exports = {
   head: [
       ['link', { rel: 'icon', href: '/images/ModMail.svg'}]
   ],
-  base: '/mail/',
+  base: '/',
   locales: {
     '/': {
       lang: 'en-US',
