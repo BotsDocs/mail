@@ -10,7 +10,9 @@
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "dev": "vuepress dev",
+    "build": "vuepress build"
   },
   "dependencies": {
     "@vue/component-compiler-utils": "^3.2.2",
