@@ -48,7 +48,7 @@ module.exports = {
               {
                 text: 'Donations',
                 link: 'https://paypal.me/mariiete1801'
-              },
+              }
           ],
           sidebar: [
             {
@@ -86,6 +86,27 @@ module.exports = {
                       link: '/installation/heroku.md'
                     }
                   ]
+                }
+              ]
+            },
+            {
+              text: 'Commands',
+              children: [
+                {
+                  text: 'Introduction',
+                  link: '/commands/README.md'
+                },
+                {
+                  text: 'Configuration',
+                  link: '/commands/configuration.md'
+                },
+                {
+                  text: 'Conversation',
+                  link: '/commands/conversation.md'
+                },
+                {
+                  text: 'Public',
+                  link: '/commands/public.md'
                 }
               ]
             }

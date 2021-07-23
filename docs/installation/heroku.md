@@ -1,6 +1,7 @@
 ---
 title: Hosting on Heroku
 prev: /installation/vps.md
+next: /commands/README.md
 ---
 
 # Hosting your Bot using Heroku
