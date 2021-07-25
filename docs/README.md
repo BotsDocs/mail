@@ -1,6 +1,6 @@
 ---
 title: Introduction
-next: /installation/github.md
+next: /demo.md
 ---
 
 # What is a ModMail?

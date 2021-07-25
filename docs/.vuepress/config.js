@@ -1,6 +1,13 @@
 module.exports = {
   head: [
-      ['link', { rel: 'icon', href: '/images/ModMail_Icon.png'}]
+      ['link', { rel: 'icon', href: '/images/ModMail_Icon.png' }],
+      ['meta', { property: 'og:type', content: 'website' }],
+      ['meta', { property: 'og:url', content: 'https://mail.phodit.xyz' }],
+      ['meta', { property: 'og:site_name', content: 'ModMail' }],
+      ['meta', { property: 'og:keywords', content: 'Discord,Mail,ModMail, mod mail, support, soporte, tickets, bot mail, bot soporte, ticket bot, Mod Mail' }],
+      ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
+      ['meta', { property: 'og:image', content: '/images/ModMail_Icon.png' }],
+      ['meta', { property: 'twitter:image', content: '/images/ModMail_Icon.png' }]
   ],
   locales: {
     '/': {
@@ -45,17 +52,29 @@ module.exports = {
           navbar: [
               {
                 text: 'Discord',
-                link: 'https://discord.com'
+                link: 'https://discord.gg/aUNhdFD'
               },
               {
                 text: 'Donations',
                 link: 'https://paypal.me/mariiete1801'
+              },
+              {
+                text: 'Buy Hosted Version',
+                link: '/hosted_version.md'
               }
           ],
           sidebar: [
             {
               text: 'Introduction',
               link: '/README.md'
+            },
+            {
+              text: 'Bot Demo',
+              link: '/demo.md'
+            },
+            {
+              text: 'Hosted Version',
+              link: '/hosted_version.md'
             },
             {
               text: 'Installation',
@@ -111,6 +130,19 @@ module.exports = {
                   link: '/commands/public.md'
                 }
               ]
+            },
+            {
+              text: 'Other',
+              children: [
+                {
+                  text: 'Contributors',
+                  link: '/other/contributors.md'
+                },
+                {
+                  text: 'Privacy Policy',
+                  link: '/other/privacy_policy.md'
+                }
+              ]
             }
           ]
         },
@@ -152,6 +184,88 @@ module.exports = {
                 text: 'Donaciones',
                 link: 'https://paypal.me/mariiete1801'
               },
+          ],
+          sidebar: [
+            {
+              text: 'Introducción',
+              link: '/es/README.md'
+            },
+            {
+              text: 'Demostración del Bot',
+              link: '/es/demo.md'
+            },
+            {
+              text: 'Versión Hosteada',
+              link: '/es/hosted_version.md'
+            },
+            {
+              text: 'Instalación',
+              children: [
+                {
+                  text: 'Conseguir el Código del Bot',
+                  link: '/es/installation/github.md'
+                },
+                {
+                  text: 'Crear un Bot de Discord',
+                  link: '/es/installation/discord.md'
+                },
+                {
+                  text: 'Configurar la Base de Datos',
+                  link: '/es/installation/mongo.md'
+                },
+                {
+                  text: 'Alojar tu Visualizador de Registros',
+                  link: '/es/installation/logs.md'
+                },
+                {
+                  text: 'Alojar tu Bot',
+                  children: [
+                    {
+                      text: 'Usando una VPS',
+                      link: '/es/installation/vps.md'
+                    },
+                    {
+                      text: 'Usando Heroku',
+                      link: '/es/installation/heroku.md'
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              text: 'Comandos',
+              children: [
+                {
+                  text: 'Introducción',
+                  link: '/es/commands/README.md'
+                },
+                {
+                  text: 'Configuración',
+                  link: '/es/commands/configuration.md'
+                },
+                {
+                  text: 'Conversación',
+                  link: '/es/commands/conversation.md'
+                },
+                {
+                  text: 'Públicos',
+                  link: '/es/commands/public.md'
+                }
+              ]
+            },
+            {
+              text: 'Otros',
+              children: [
+                {
+                  text: 'Contribuidores',
+                  link: '/es/other/contributors.md'
+                },
+                {
+                  text: 'Política de Privacidad',
+                  link: '/es/other/privacy_policy.md'
+                }
+              ]
+            }
           ]
         }
       }

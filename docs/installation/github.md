@@ -1,6 +1,6 @@
 ---
 title: Getting the code
-prev: /README.md
+prev: /hosted_version.md
 next: /installation/discord.md
 ---
 
