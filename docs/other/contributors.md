@@ -2,6 +2,7 @@
 title: Contributors
 prev: /commands/public.md
 next: /other/privacy_policy.md
+externalIcon: false
 ---
 
 # Contributors

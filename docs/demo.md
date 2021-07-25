@@ -2,6 +2,7 @@
 title: Bot Demo
 prev: /README.md
 next: /hosted_version.md
+description: How does ModMail work? Check it out through our gifs.
 ---
 
 # How do you use the bot?

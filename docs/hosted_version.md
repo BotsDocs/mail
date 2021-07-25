@@ -2,6 +2,7 @@
 title: Hosted Version
 prev: /demo.md
 next: /installation/github.md
+description: Try the best ModMail hosting experience.
 ---
 
 # Buy a Hosted ModMail

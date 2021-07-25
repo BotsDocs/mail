@@ -1,11 +1,12 @@
 ---
 title: Introduction
 next: /demo.md
+description: ModMail Documentation | The Discord bot that enables private, secure and smooth communication between server members and the staff.
 ---
 
 # What is a ModMail?
 
-A ModMail is a Discord bot that enabled private, secure and smooth communication between a server member and the server staff.
+A ModMail is a Discord bot that enables private, secure and smooth communication between server members and the staff.
 
 <br/>
 

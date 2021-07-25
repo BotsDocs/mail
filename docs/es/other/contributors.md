@@ -2,6 +2,7 @@
 title: Contribuidores
 prev: /es/commands/public.md
 next: /es/other/privacy_policy.md
+externalIcon: false
 ---
 
 # Contribuidores

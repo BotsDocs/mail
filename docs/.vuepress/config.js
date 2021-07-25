@@ -6,20 +6,20 @@ module.exports = {
       ['meta', { property: 'og:site_name', content: 'ModMail' }],
       ['meta', { property: 'og:keywords', content: 'Discord,Mail,ModMail, mod mail, support, soporte, tickets, bot mail, bot soporte, ticket bot, Mod Mail' }],
       ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
-      ['meta', { property: 'og:image', content: '/images/ModMail_Icon.png' }],
-      ['meta', { property: 'twitter:image', content: '/images/ModMail_Icon.png' }]
+      ['meta', { property: 'og:image', content: '/images/ModMail_Banner.png' }],
+      ['meta', { property: 'twitter:image', content: '/images/ModMail_Banner.png' }]
   ],
   locales: {
     '/': {
       lang: 'en-US',
       title: 'ModMail',
-      description: 'ModMail Discord bot documentation.',
+      description: 'ModMail Documentation | ModMail enables private, secure and smooth communication between server members and the staff.',
       selectLanguageName: 'English'
     },
     '/es/': {
       lang: 'es-ES',
       title: 'ModMail',
-      description: 'Documentación del ModMail, un bot de Discord.',
+      description: 'ModMail Documentation | ModMail permite comunicación privada, segura y fluida entre los miembros del servidor y el staff.',
       selectLanguageName: 'Español'
     }
   },
@@ -184,6 +184,10 @@ module.exports = {
                 text: 'Donaciones',
                 link: 'https://paypal.me/mariiete1801'
               },
+              {
+                text: 'Comprar la Versión Alojada',
+                link: '/es/hosted_version.md'
+              }
           ],
           sidebar: [
             {
