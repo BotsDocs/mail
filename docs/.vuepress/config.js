@@ -22,6 +22,8 @@ module.exports = {
         '/': {
           // text for the language dropdown
           selectText: 'Languages',
+          selectLanguageText: 'Languages',
+          selectLanguageAriaLabel: 'Languages',
           selectLanguageName: 'English',
           // label for this locale in the language dropdown
           label: 'English',
@@ -115,6 +117,8 @@ module.exports = {
         '/es/': {
           // text for the language dropdown
           selectText: 'Idiomas',
+          selectLanguageText: 'Idiomas',
+          selectLanguageAriaLabel: 'Idiomas',
           selectLanguageName: 'Español',
           // label for this locale in the language dropdown
           label: 'Español',
