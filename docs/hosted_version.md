@@ -28,7 +28,7 @@ Here you have all the available pricing options.
 
 ## How to buy an instance?
 
-1. Please join the [support server](https://discord.gg/aUNhdFD) and contact the bot **Mail Support**, telling that you want to buy and instance.
+1. Please join the [support server](https://discord.gg/aUNhdFD) and contact the bot **Mail Support**, telling that you want to buy an instance.
    <br/>
    Indicate the amount of time you want to pay for and take into account that <u>PayPal</u> is the only payment method.
 2. Have the following information prepared.

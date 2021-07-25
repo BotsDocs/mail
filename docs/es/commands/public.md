@@ -4,7 +4,7 @@ prev: /es/commands/conversation.md
 next: /es/other/contributors.md
 ---
 
-# Comandos públicos
+# Comandos Públicos
 
 El bot también ofrece algunos comandos para todo el mundo, pero siempre puedes [quitar el permiso REGULAR](/commands/configuration.md#permission-levelname-commandname-add-remove-role-id-userid) si no quieres que se usen dichos comandos.
 
