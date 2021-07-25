@@ -158,7 +158,7 @@ Changes the name of a thread.
 
 ## +blacklist <add / remove> [user]
 
-Changes the blacklist status of a member. If it is run <u>in a thread<u/>, the recipient is blacklisted/unblacklisted. If not, you need to provide a user.
+Changes the blacklist status of a member. If it is run <u>in a thread</u>, the recipient is blacklisted/unblacklisted. If not, you need to provide a user.
 
 - **Usage example:**
 <br/>
