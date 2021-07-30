@@ -25,3 +25,7 @@ pm2 restart modmail
 ## I could not install the bot, what can I do?
 
 Join our [support server](https://discord.gg/aUNhdFD) and leave your questions. We will help you to set up the bot.
+
+## How can I configure who can see the created threads?
+
+Just edit the permissions of the ModMail category and allow the role or users you like to view channels and to send messages.

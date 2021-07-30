@@ -25,3 +25,7 @@ pm2 restart modmail
 ## No he podido instalar el bot, ¿qué puedo hacer?
 
 Entra a nuestro [servidor de soporte](https://discord.gg/9jPjxMB) y deja tus preguntas. Te ayudaremos a configurar tu bot.
+
+## ¿Cómo puedo configurar quién puede ver los hilos creados?
+
+Simplemente edita la categoría del ModMail y permite que los roles y usuarios que quieras puedan ver los canales y enviar mensajes.
