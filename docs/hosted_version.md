@@ -1,7 +1,7 @@
 ---
 title: Hosted Version
 prev: /demo.md
-next: /installation/github.md
+next: /faq.md
 description: Try the best ModMail hosting experience.
 ---
 

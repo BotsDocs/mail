@@ -29,4 +29,4 @@ Todas las personas que verás aquí son personas alucinantes que han ayudado par
 <br/>
 :man_scientist: [Hexpod_604#1373](https://discord.com/users/704467620035821619)
 <br/>
-:man_scientist: [Alexᵀʰᶰ#0001](https://discord.com/users/716712953662931035)
+:man_scientist: [byAlex#0001](https://discord.com/users/716712953662931035)

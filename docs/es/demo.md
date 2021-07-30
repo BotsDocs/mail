@@ -1,7 +1,7 @@
 ---
 title: Demostración del Bot
-prev: /README.md
-next: /hosted_version.md
+prev: /es/README.md
+next: /es/hosted_version.md
 description: ¿Cómo funciona ModMail? Compruébalo a través de nuestros gifs.
 ---
 

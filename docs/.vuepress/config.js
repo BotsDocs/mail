@@ -76,6 +76,10 @@ module.exports = {
               text: 'Hosted Version',
               link: '/hosted_version.md'
             },
+              {
+              text: 'FAQ',
+              link: '/faq.md'
+            },
             {
               text: 'Installation',
               children: [
@@ -178,7 +182,7 @@ module.exports = {
           navbar: [
               {
                 text: 'Discord',
-                link: 'https://discord.com'
+                link: 'https://discord.gg/9jPjxMB'
               },
               {
                 text: 'Donaciones',
@@ -201,6 +205,10 @@ module.exports = {
             {
               text: 'Versión Hosteada',
               link: '/es/hosted_version.md'
+            },
+              {
+              text: 'Preguntas Frecuentes',
+              link: '/es/faq.md'
             },
             {
               text: 'Instalación',
