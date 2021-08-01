@@ -21,15 +21,17 @@ The database is a really important part of your ModMail, as it saves your config
 
 ![](/images/Mg_Region.png)
 
-- Enter a username and a password and note it down, **you will need them later**!
-- Add the IP `0.0.0.0/0` to the IP Access List.
+- Enter a username and a password and write them down, **you will need them later**!
+  <br/>
+  This username and password are different to your Atlas account's password, this is the one to access the DB.
+- Add the IP `0.0.0.0/0` to the IP Access List. This will allow every IP to connect to your database, including your host's one.
 
 ![](/images/Mg_Pass.png)
 
-- Wait until your Cluster has been created.
+- Wait until your Cluster has been created. This operation can take up to 5 minutes.
 - Click on **CONNECT** and select the **application** option.
 
 ![](/images/Mg_Connect.png)
 
 - Copy the link and replace `<password>` with the password you created before. You also need to replace `myFirstDatabase?retryWrites=true&w=majority` with `ModMail`.
-- Save the link in a secure place, you will need it later.
+- Write down the link in a secure place, you will need it later.

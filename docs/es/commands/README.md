@@ -26,14 +26,14 @@ Por ejemplo, en el comando:
 
 
 ```:no-line-numbers
-+set logs {channel / "none"}
++set logs {canal / "none"}
 ```
 
 Puedes mencionar un canal, escribir la ID del canal o poner `none` si no quieres registros en ningún canal.
 
 Otro aspecto que deberás de tener en cuenta es que algunos comandos que verás tendrán insignias <Badge text="como esta" vertical="middle" /> con el texto **Solo en Hilo**, que significa que dicho comando no fucionará fuera de un ticket.
 
-Y por último pero no menos importante, algunos comandos requerirán que indiques un canal o un usuario, pero no todos aceptarán menciones. Por eso, cuando veas `channel/user`, podrás usar las dos <u>mención o una id</u>, y si ves `channelID/userID` tendrás que <u>usar solo la ID</u>.
+Y por último pero no menos importante, algunos comandos requerirán que indiques un canal o un usuario, pero no todos aceptarán menciones. Por eso, cuando veas `canal/usuario`, podrás usar <u>una mención o una id</u>, y si ves `ID del canal/ID del usuario` solo podrás <u>usar la ID</u>.
 
 ## Permisos
 

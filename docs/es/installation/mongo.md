@@ -22,7 +22,9 @@ La Base de Datos es una parte muy importante de tu ModMail, ya que guarda la con
 ![](/images/Mg_Region.png)
 
 - Ingresa un nombre de usuario y una contraseña y anótalos, ¡**Los necesitarás más tarde**!
-- Añade la IP `0.0.0.0/0` en la lista de acceso de IPs.
+  <br/>
+  Este usuario y esta contraseña son distintos que los de tu cuenta de Atlas, sirven para acceder a tu base de datos.
+- Añade la IP `0.0.0.0/0` en la lista de acceso de IPs. Así permitirás acceso a todas las IPs, incluida la de tu servicio de alojamiento.
 
 ![](/images/Mg_Pass.png)
 

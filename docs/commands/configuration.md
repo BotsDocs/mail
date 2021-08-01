@@ -6,7 +6,7 @@ next: /commands/conversation.md
 
 # Configuration Commands
 
-Having a well configured ModMail is essential for a proper personalized usage. Here you have the different commands to configure levels, texts, images, etc.
+Having a well configured ModMail is essential for a proper personalized usage. Here you have the different commands to configure permissions, texts, images, etc.
 
 ## +permission {levelName / commandName} <add / remove> {role ID / userID}
 
@@ -40,12 +40,12 @@ For the value, just send the appropriate text corresponding the description.
 | username                    | changes your bot **username**, not the nickname.                                                                                                                                                                      |
 | prefix                      | changes your bot's prefix.                                                                                                                                                                                            |
 | category                    | send the ID of the category where you want new threads to be opened.                                                                                                                                                  |
-| logs                        | send the ID or mention the channel where you want your logs to be sent on thread closure. Use `none` to disable it.                                                                                                   |
+| logs                        | send the ID or mention the channel where you want your logs to be sent on thread closure. Use `none` to disable them.                                                                                                 |
 | status                      | changes your bot status.                                                                                                                                                                                              |
-| notification                | send the ID of the role you want to get pinged on thread creation. Use `none` if you do not want to ping any role.                                                                                                    |
+| notification                | send the ID or mention the role you want to get pinged on thread creation. Use `none` if you do not want to ping any role.                                                                                            |
 | account_age                 | the age an account needs to have in order to be able to open a thread. Use `0` to disable it. The format is, for example, `3w` for three weeks, `1d` for one day, `10m` for ten minutes, etc.                         |
 | guild_age                   | the time an account needs to have been inside the server in order to be able to open a thread. Use `0` to disable it. The format is, for example, `3w` for three weeks, `1d` for one day, `10m` for ten minutes, etc. |
-| guild_age_id                | the server ID where someone needs to have the required **guild_age**. If not configured, uses the server where threads are opened.                                                                                        |
+| guild_age_id                | the server ID where someone needs to have the required **guild_age**. If not configured, uses the server where threads are opened.                                                                                    |
 | embed_creation_title        | the title of the embed sent to the user when the thread is opened.                                                                                                                                                    |
 | embed_creation_thumbnail    | the thumbnail of the embed sent to the user when the thread is opened.                                                                                                                                                |
 | embed_creation_description  | the description of the embed sent to the user when the thread is opened.                                                                                                                                              |
@@ -64,6 +64,8 @@ For the value, just send the appropriate text corresponding the description.
 | embed_closure_color         | the color (hex code) of the embed sent to the user when the thread is closed.                                                                                                                                         |
 | embed_closure_footer_text   | the footer of the embed sent to the user when the thread is closed.                                                                                                                                                   |
 | embed_closure_footer_image  | the footer image of the embed sent to the user when the thread is closed. Use `none` to disable it.                                                                                                                   |
+| embed_staff_title           | the title of the embed sent to the staff when the thread is opened.                                                                                                                                                   |
+| embed_staff_color           | the color (hex code) of the embed sent to the staff when the thread is opened.                                                                                                                                        |
 
 - **Usage example:**
 <br/>
