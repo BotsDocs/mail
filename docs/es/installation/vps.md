@@ -27,7 +27,7 @@ npm install
 npm install -g pm2
 ```
 - Crea un archivo con el nombre `.env` y copia el contenido del archivo `.env.template` y completa las variables.
-    - BOT_TOKEN: el token de tu Bot de Discord. Puedes encontrarlo en las pestaña de Bot de [Discord's Developer Portal](https://discord.com/developers/applications).
+    - BOT_TOKEN: el token de tu Bot de Discord. Puedes encontrarlo en la pestaña de Bot de [Discord's Developer Portal](https://discord.com/developers/applications).
     - MAIN_GUILD_ID: la ID del servidor donde se abrirán los tickets. Si no sabes como encontrar una ID, revisa [esta guía](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-).
     - MONGO_URI: la URL de mongo que copiaste con la contraseña reemplazada.
     - LOGS_URL: la URL donde se almacenarán tus registros (asegúrate que termine con `/`). Si no estás utilizando ningún registro, solo elimina esta línea.

@@ -55,10 +55,6 @@ module.exports = {
                 link: 'https://discord.gg/aUNhdFD'
               },
               {
-                text: 'Donations',
-                link: 'https://paypal.me/mariiete1801'
-              },
-              {
                 text: 'Buy Hosted Version',
                 link: '/hosted_version.md'
               }
@@ -183,10 +179,6 @@ module.exports = {
               {
                 text: 'Discord',
                 link: 'https://discord.gg/9jPjxMB'
-              },
-              {
-                text: 'Donaciones',
-                link: 'https://paypal.me/mariiete1801'
               },
               {
                 text: 'Comprar la Versión Alojada',

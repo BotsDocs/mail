@@ -18,7 +18,7 @@ Crear un bot de Discord es un paso muy importante para crear tu propio ModMail. 
 
 ![](/images/Dc_AddBot.png)
 
-- Deshabilita la opción de **Public Bot** para que nadie más que tu pueda agregar el Bot a otros servidores. También debes habilitar **Privileged Intents**.
+- Deshabilita la opción de **Public Bot** para que nadie excepto tú pueda agregar el Bot a otros servidores. También debes habilitar **Privileged Intents**.
 
 ![](/images/Dc_Intents.png)
 
