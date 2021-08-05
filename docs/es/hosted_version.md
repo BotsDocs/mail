@@ -28,7 +28,7 @@ Aquí tienes todas las opciones de compra disponibles.
 
 ## ¿Cómo se compra una instancia?
 
-1. Únete al [servidor de soporte](https://discord.gg/9jPjxMB) y contacta al bot **Mail Support** diciendo que quieres comprar una instancia.
+1. Únete al [servidor de soporte](https://discord.gg/9jPjxMB) y contacta al bot **Mail Support#1566** diciendo que quieres comprar una instancia.
 <br/>
 Indica la cantidad de tiempo por la que quieres pagar y ten en cuenta que <u>PayPal</u> es el único método de pago.
 2. Ten la siguiente información preparada:
