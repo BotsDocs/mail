@@ -34,7 +34,7 @@ Envía una respuesta a un ticket sin que el destinatario sepa quién escribió e
 
 Cierra un ticket. Si proporcionas un tiempo, se cierra una vez transcurrido el tiempo. Si proporcionas una razón, se anulará la descripción del embed predeterminado.
 <br/>
-El formato para el tiempo es, por ejemplo, `3w` para tres semanas,` 1d` para un día, `10m` para diez minutos, etc.
+El formato para el tiempo es, por ejemplo, `3w` para tres semanas,`1d` para un día, `10m` para diez minutos, etc.
 - **Ejemplo de uso:**
 <br/>
 `+close` - Cierra inmediatamente. 
@@ -44,7 +44,6 @@ El formato para el tiempo es, por ejemplo, `3w` para tres semanas,` 1d` para un 
 `+close Nos vemos pronto` - Cierra inmediatamente con un mensaje específico.
 <br/>
 `+close 2h Nos vemos pronto` - Cierra después de 2 horas con un mensaje específico.
-.
 
 - **Permiso:** SUPPORT
 - **Alias:** `c`
