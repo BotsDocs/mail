@@ -5,7 +5,7 @@ next: /es/demo.md
 
 # ¿Qué es un ModMail?
 
-Un ModMail es un bot de Discord que permite una comunicación privada, seguro y fluida entre un personal y un miembro del servidor. that enabled private, secure and smooth communication between a server member and the server staff.
+Un ModMail es un bot de Discord que permite una comunicación privada, segura y fluida entre un personal y un miembro del servidor.
 
 <br/>
 
