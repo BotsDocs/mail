@@ -130,9 +130,9 @@ Sets a note for the thread, displayed on the logs.
 
 - **Usage example:**
 <br/>
-`+title This user is really kind :D` - Sets the note to **This user is really kind :D**.
+`+note This user is really kind :D` - Sets the note to **This user is really kind :D**.
 <br/>
-`+title removenote` - Deletes the note.
+`+note removenote` - Deletes the note.
 
 - **Permission:** SUPPORT
 

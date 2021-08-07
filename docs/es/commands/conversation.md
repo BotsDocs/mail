@@ -130,9 +130,9 @@ Establece una nota para el ticket que se mostrará en los registros.
 
 - **Ejemplo de uso:**
 <br/>
-`+title Este usuario es muy amable :D` - Establece la nota a **Este usuario es muy amable :D**.
+`+note Este usuario es muy amable :D` - Establece la nota a **Este usuario es muy amable :D**.
 <br/>
-`+title removenote` - Elimina la nota.
+`+note removenote` - Elimina la nota.
 
 - **Permiso:** SUPPORT
 
