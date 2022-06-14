@@ -8,7 +8,7 @@ externalIcon: false
 # Reseñas
 
 Desde el equipo del ModMail estamos orgullosos de poder mostrar las valoraciones de los usuarios.<br/>
-Si quieres que tu reseña aparezca en esta página, por favor contacta con [modmail@tutoclub.xyz](mailto://modmail@tutoclub.xyz) y mándala junto con tu ID de usuario.
+Si quieres que tu reseña aparezca en esta página, por favor contacta con [modmail@tutoclub.xyz](mailto:modmail@tutoclub.xyz) y mándala junto con tu ID de usuario.
 
 <br/>
 

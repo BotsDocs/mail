@@ -8,7 +8,7 @@ externalIcon: false
 # Reviews
 
 From the ModMail team we are proud to be able to show you users' reviews.<br/>
-If you want your review to appear in this page, please contact [modmail@tutoclub.xyz](mailto://modmail@tutoclub.xyz) and send it along with your user ID.
+If you want your review to appear in this page, please contact [modmail@tutoclub.xyz](mailto:modmail@tutoclub.xyz) and send it along with your user ID.
 
 <br/>
 
