@@ -1,7 +1,7 @@
 ---
 title: Comandos Públicos
 prev: /es/commands/conversation.md
-next: /es/other/contributors.md
+next: /es/other/reviews.md
 ---
 
 # Comandos Públicos

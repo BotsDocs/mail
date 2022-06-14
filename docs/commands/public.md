@@ -1,7 +1,7 @@
 ---
 title: Public Commands
 prev: /commands/conversation.md
-next: /other/contributors.md
+next: /other/reviews.md
 ---
 
 # Public Commands

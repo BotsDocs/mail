@@ -1,6 +1,6 @@
 ---
 title: Contribuidores
-prev: /es/commands/public.md
+prev: /es/other/reviews.md
 next: /es/other/privacy_policy.md
 externalIcon: false
 ---

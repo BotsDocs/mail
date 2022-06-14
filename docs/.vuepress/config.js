@@ -135,6 +135,10 @@ module.exports = {
               text: 'Other',
               children: [
                 {
+                  text: 'Reviews',
+                  link: '/other/reviews.md'
+                },
+                {
                   text: 'Contributors',
                   link: '/other/contributors.md'
                 },
@@ -260,6 +264,10 @@ module.exports = {
             {
               text: 'Otros',
               children: [
+                {
+                  text: 'Reseñas',
+                  link: '/es/other/reviews.md'
+                },
                 {
                   text: 'Contribuidores',
                   link: '/es/other/contributors.md'
