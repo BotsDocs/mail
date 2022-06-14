@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/BotsDocs/mail.git",
-  "author": "Mario <mario.vitoon@gmail.com>",
+  "author": "Mario <phodit@phodit.xyz>",
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^2.0.0-beta.22"
