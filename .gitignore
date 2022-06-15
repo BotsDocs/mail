@@ -3,3 +3,6 @@ node_modules/
 .vscode/
 docs/.vuepress/.temp
 docs/.vuepress/.cache
+.vuepress/
+package-lock.json
+yarn.lock

@@ -8,7 +8,7 @@ externalIcon: false
 # Reseñas
 
 Desde el equipo del ModMail estamos orgullosos de poder mostrar las valoraciones de los usuarios.<br/>
-Si quieres que tu reseña aparezca en esta página, por favor contacta con [modmail@tutoclub.xyz](mailto://modmail@tutoclub.xyz) y mándala junto con tu ID de usuario.
+Si quieres que tu reseña aparezca en esta página, por favor contacta con [modmail@tutoclub.xyz](mailto:modmail@tutoclub.xyz) y mándala junto con tu ID de usuario.
 
 <br/>
 
@@ -20,3 +20,6 @@ Si quieres que tu reseña aparezca en esta página, por favor contacta con [modm
 
 ### [! dirquelᴾᶻ#4213](https://www.discord.com/users/833257316135600158)
 > El modmail sirve para comunicarse con el staff del servidor de forma privada. En este caso, le mandas un MD al bot y crea un canal en el servidor con tu nombre y desde allí, el staff puede interactuar contigo mediante el MD del bot. Su configuración es sencilla, y todo el mundo podría tener su propio ModMail alojado en heroku (siguiendo los pasos de vídeo de TutoDiscord) o por un pequeño precio puedes pedir que TutoClub te lo aloje durante 6 meses o 1 año. Es una herramienta muy útil y con muchas funciones. ¡Perfecto para ser usado desde pequeños servidores de amigos, hasta en grandes comunidades!
+
+### [Kárl#6504](https://www.discord.com/users/952537141081153556)
+> Me encanta este bot en general, es superfácil de configurar y usar, lo único malo es heroku, que es un muy mal hosting, pero no me puedo quejar de eso porque no tiene que ver con los desarrolladores o el bot. También me encanta que los trabajadores de soporte y el propio owner siempre están intentando ayudar.

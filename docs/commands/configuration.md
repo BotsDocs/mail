@@ -88,7 +88,8 @@ Allows you to set up aliases for your commands, customizing how you trigger them
 
 ## +snippet <create / edit> {name} {content}
 
-Allows you to create or edit a snippet or predefined message you can use to reply in threads as if they were separate commands.
+Allows you to create or edit a snippet or predefined message you can use to reply in threads as if they were separate commands.<br/>
+If the snippet name begins with `anon_` it will be sent as an anonymous reply when sent.
 
 - **Usage example:**
 <br/>
@@ -118,3 +119,33 @@ Shows you all current available snippets.
 
 - **Permission:** ADMIN
 - **Aliases:** `qr`, `quickreply`
+
+## +category add {name} {categoryID}
+
+Adds a category to your server's category list. [See more info at the move command](/commands/conversation.md#move-category-name=).
+
+- **Usage example:**
+<br/>
+`+category add main 12343545674788366`
+
+- **Permission:** ADMIN
+
+## +category remove {name}
+
+Removes a category from your server's category list. [See more info at the move command](/commands/conversation.md#move-category-name=).
+
+- **Usage example:**
+<br/>
+`+category remove main`
+
+- **Permission:** ADMIN
+
+## +category list
+
+Shows your server's category list. [See more info at the move command](/commands/conversation.md#move-category-name=).
+
+- **Usage example:**
+<br/>
+`+category list`
+
+- **Permission:** ADMIN

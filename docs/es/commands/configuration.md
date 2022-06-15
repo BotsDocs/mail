@@ -117,3 +117,33 @@ Muestra la lista de todos los snippets disponibles.
 
 - **Permiso:** ADMIN
 - **Aliases:** `qr`, `quickreply`
+
+## +category add {nombre} {ID de la categoría}
+
+Añade una categoría a la lista de categorías de tu servidor. [Ver más información en el comando move](/es/commands/conversation.md#move-nombre-de-la-categoria=).
+
+- **Ejemplo de uso:**
+<br/>
+`+category add main 12343545674788366`
+
+- **Permiso:** ADMIN
+
+## +category remove {name}
+
+Quita una categoría de la lista de categorías de tu servidor. [Ver más información en el comando move](/es/commands/conversation.md#move-nombre-de-la-categoria=).
+
+- **Ejemplo de uso:**
+<br/>
+`+category remove main`
+
+- **Permiso:** ADMIN
+
+## +category list
+
+Muestra la lista de categorías de tu servidor. [Ver más información en el comando move](/es/commands/conversation.md#move-nombre-de-la-categoria=).
+
+- **Ejemplo de uso:**
+<br/>
+`+category list`
+
+- **Permiso:** ADMIN
