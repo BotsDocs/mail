@@ -179,9 +179,9 @@ Obtiene todos los registros anteriores del usuario con la ID especificada.
 - **Permiso:** SUPPORT
 - **Alias:** `logs`
 
-## +move {nombre de la categoría}
+## +move {nombre de la categoría} <Badge text="Solo en Tickets" vertical="middle" />
 
-Mueve el ticket a una categoría [previamente configurada](/es/commands/configuration.md#category-add-nombre-id-de-la-categoria=) con ese nombre. Esto se puede utilizar para crear un sistema en el que los hilos corresponden a equipos de soporte diferentes.
+Mueve el ticket a una categoría [previamente configurada](/es/commands/configuration.md#category-add-nombre-id-de-la-categoria=) con ese nombre. Esto se puede utilizar para crear un sistema en el que los tickets corresponden a equipos de soporte diferentes.
 <br/>
 Los canales se sincronizarán a los permisos de las categorías salvo que se modifiquen manualmente.
 

@@ -180,7 +180,7 @@ Gets all previous logs of the specified user ID.
 - **Permission:** SUPPORT
 - **Alias:** `logs`
 
-## +move {category name}
+## +move {category name} <Badge text="Thread Only" vertical="middle" />
 
 Moves this thread to a category [previously configured](/commands/configuration.md#category-add-name-categoryid=) under that name. This can be used to create a system where tickets correspond to different support teams.
 <br/>
