@@ -184,7 +184,7 @@ Gets all previous logs of the specified user ID.
 
 Moves this thread to a category [previously configured](/commands/configuration.md#category-add-name-categoryid=) under that name. This can be used to create a system where tickets correspond to different support teams.
 <br/>
-The channels will sync to the category's permissions unless they have been manually modified.
+The channels will sync to the category's permissions.
 
 - **Usage example:**
 <br/>
