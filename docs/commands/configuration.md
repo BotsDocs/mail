@@ -47,6 +47,7 @@ For the value, just send the appropriate text corresponding the description.
 | account_age                  | the age an account needs to have in order to be able to open a thread. Use `0` to disable it. The format is, for example, `3w` for three weeks, `1d` for one day, `10m` for ten minutes, etc.                         |
 | guild_age                    | the time an account needs to have been inside the server in order to be able to open a thread. Use `0` to disable it. The format is, for example, `3w` for three weeks, `1d` for one day, `10m` for ten minutes, etc. |
 | guild_age_id                 | the server ID where someone needs to have the required **guild_age**. If not configured, uses the server where threads are opened.                                                                                    |
+| exclude_internal_logs        | set to `true` if you do not want to log internal messages.                                                                                                                                                            |
 | embed_creation_title         | the title of the embed sent to the user when the thread is opened.                                                                                                                                                    |
 | embed_creation_thumbnail     | the thumbnail of the embed sent to the user when the thread is opened.                                                                                                                                                |
 | embed_creation_description   | the description of the embed sent to the user when the thread is opened.                                                                                                                                              |
@@ -78,6 +79,7 @@ For the value, just send the appropriate text corresponding the description.
 
 - **Permission:** ADMIN
 - **Alias:** `s`
+- **Tip:** You can use variables at the description of creation and closure embeds. `$logID` will be replaced with the ID of the log/thread and `$member` with the username of the user.
 
 ## +alias <add / remove> {alias name} {command name}
 

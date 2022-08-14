@@ -46,6 +46,7 @@ Para el campo **Value**, simplemente manda el texto correspondiente a la descrip
 | account_age                  | la edad que tiene que tener una cuenta para abrir un hilo. Usa `0` para desactivarlo. El formato es, por ejemplo, `3w` para tres semanas, `1d` para un día, `10m` para diez minutos, etc. (se corresponden a las iniciales de las palabras inglesas correspondientes).                            |
 | guild_age                    | el tiempo que ha tenido que estar una cuenta en el servidor para poder abrir un hilo. Usa `0` para desactivarlo. El formato es, por ejemplo, `3w` para tres semanas, `1d` para un día, `10m` para diez minutos, etc. (se corresponden a las iniciales de las palabras inglesas correspondientes). |
 | guild_age_id                 | la ID del server donde se necesita tener la **guild_age** especificada. Si no está configurado, usa el server donde se abren los hilos.                                                                                                                                                           |
+| exclude_internal_logs        | si se establece como `true` no se registrarán los mensajes internos.                                                                                                                                                                                                                              |
 | embed_creation_title         | el título del embed que se envía al usuario cuando abre un hilo.                                                                                                                                                                                                                                  |
 | embed_creation_thumbnail     | la imagen de la cabecera del embed que se envía al usuario cuando abre un hilo.                                                                                                                                                                                                                   |
 | embed_creation_description   | la descripción del embed que se envía al usuario cuando abre un hilo.                                                                                                                                                                                                                             |
@@ -77,6 +78,7 @@ Para el campo **Value**, simplemente manda el texto correspondiente a la descrip
 
 - **Permiso:** ADMIN
 - **Alias:** `s`
+- **Consejo:** Puedes usar variables en los embeds de creación y cierre. `$logID` será reemplazado con el ID del log/hilo y `$member` con el nombre de usuario de quien recibe los mensajes (usuario).
 
 ## +alias <add / remove> {nombre del alias} {nombre del comando}
 
